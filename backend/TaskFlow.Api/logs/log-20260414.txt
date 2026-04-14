@@ -1,0 +1,1278 @@
+2026-04-14 06:11:57.041 +05:30 [INF] User profile is available. Using 'C:\Users\HP\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-04-14 06:11:57.813 +05:30 [INF] Creating key {35f5c0ee-76e8-4dcb-bcb7-6e9f01f33bf3} with creation date 2026-04-14 00:41:57Z, activation date 2026-04-14 00:41:57Z, and expiration date 2026-07-13 00:41:57Z.
+2026-04-14 06:11:57.880 +05:30 [INF] Writing data to file 'C:\Users\HP\AppData\Local\ASP.NET\DataProtection-Keys\key-35f5c0ee-76e8-4dcb-bcb7-6e9f01f33bf3.xml'.
+2026-04-14 06:11:59.103 +05:30 [INF] Now listening on: https://localhost:7222
+2026-04-14 06:11:59.113 +05:30 [INF] Now listening on: http://localhost:5186
+2026-04-14 06:11:59.513 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-14 06:11:59.523 +05:30 [INF] Hosting environment: Development
+2026-04-14 06:11:59.537 +05:30 [INF] Content root path: D:\Projects\TaskFlow\backend\TaskFlow.Api\TaskFlow.Api
+2026-04-14 06:12:05.922 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/swagger - null null
+2026-04-14 06:12:07.021 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/swagger - 301 0 null 1143.848ms
+2026-04-14 06:12:07.072 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/swagger/index.html - null null
+2026-04-14 06:12:07.494 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/swagger/swagger-ui.css - null null
+2026-04-14 06:12:07.516 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/swagger/index.html - 200 null text/html;charset=utf-8 444.5966ms
+2026-04-14 06:12:07.517 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/swagger/swagger-ui-bundle.js - null null
+2026-04-14 06:12:07.528 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/swagger/swagger-ui-standalone-preset.js - null null
+2026-04-14 06:12:07.664 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2026-04-14 06:12:07.783 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/swagger/swagger-ui.css - 200 152034 text/css 288.7166ms
+2026-04-14 06:12:07.837 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2026-04-14 06:12:07.855 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 344.0006ms
+2026-04-14 06:12:07.865 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/_vs/browserLink - null null
+2026-04-14 06:12:07.865 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/_framework/aspnetcore-browser-refresh.js - null null
+2026-04-14 06:12:08.045 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/_framework/aspnetcore-browser-refresh.js - 200 16509 application/javascript; charset=utf-8 179.1662ms
+2026-04-14 06:12:08.135 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2026-04-14 06:12:08.233 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/swagger/swagger-ui-bundle.js - 200 1456926 text/javascript 722.1679ms
+2026-04-14 06:12:08.527 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/_vs/browserLink - 200 null text/javascript; charset=UTF-8 661.5548ms
+2026-04-14 06:12:09.159 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/swagger/v1/swagger.json - null null
+2026-04-14 06:12:09.274 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 115.6488ms
+2026-04-14 06:12:09.659 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/swagger/favicon-32x32.png - null null
+2026-04-14 06:12:09.671 +05:30 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2026-04-14 06:12:09.679 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/swagger/favicon-32x32.png - 200 628 image/png 24.1679ms
+2026-04-14 06:16:20.881 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/swagger/index.html - null null
+2026-04-14 06:16:21.135 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/swagger/index.html - 200 null text/html;charset=utf-8 274.3856ms
+2026-04-14 06:16:21.670 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/_framework/aspnetcore-browser-refresh.js - null null
+2026-04-14 06:16:21.775 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/_vs/browserLink - null null
+2026-04-14 06:16:21.780 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/_framework/aspnetcore-browser-refresh.js - 200 16509 application/javascript; charset=utf-8 110.128ms
+2026-04-14 06:16:21.893 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/_vs/browserLink - 200 null text/javascript; charset=UTF-8 119.2295ms
+2026-04-14 06:16:22.273 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/swagger/v1/swagger.json - null null
+2026-04-14 06:16:22.391 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 118.1025ms
+2026-04-14 06:17:03.988 +05:30 [INF] User profile is available. Using 'C:\Users\HP\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-04-14 06:17:05.312 +05:30 [INF] Now listening on: https://localhost:7222
+2026-04-14 06:17:05.319 +05:30 [INF] Now listening on: http://localhost:5186
+2026-04-14 06:17:05.567 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-14 06:17:05.579 +05:30 [INF] Hosting environment: Development
+2026-04-14 06:17:05.590 +05:30 [INF] Content root path: D:\Projects\TaskFlow\backend\TaskFlow.Api\TaskFlow.Api
+2026-04-14 06:17:07.799 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/swagger/index.html - null null
+2026-04-14 06:17:08.631 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/swagger/index.html - 200 null text/html;charset=utf-8 851.286ms
+2026-04-14 06:17:09.200 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/_framework/aspnetcore-browser-refresh.js - null null
+2026-04-14 06:17:09.201 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/_vs/browserLink - null null
+2026-04-14 06:17:09.236 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/_framework/aspnetcore-browser-refresh.js - 200 16509 application/javascript; charset=utf-8 37.1812ms
+2026-04-14 06:17:09.394 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/_vs/browserLink - 200 null text/javascript; charset=UTF-8 194.9614ms
+2026-04-14 06:17:09.524 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/swagger/v1/swagger.json - null null
+2026-04-14 06:17:09.673 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 149.4766ms
+2026-04-14 06:19:17.390 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/swagger/index.html - null null
+2026-04-14 06:19:17.434 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/swagger/index.html - 200 null text/html;charset=utf-8 43.5934ms
+2026-04-14 06:19:17.557 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/_vs/browserLink - null null
+2026-04-14 06:19:17.576 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/_framework/aspnetcore-browser-refresh.js - null null
+2026-04-14 06:19:17.615 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/_framework/aspnetcore-browser-refresh.js - 200 16509 application/javascript; charset=utf-8 39.9625ms
+2026-04-14 06:19:17.664 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/_vs/browserLink - 200 null text/javascript; charset=UTF-8 107.4786ms
+2026-04-14 06:19:18.247 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/swagger/v1/swagger.json - null null
+2026-04-14 06:19:18.306 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 59.099ms
+2026-04-14 06:20:24.671 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/swagger/index.html - null null
+2026-04-14 06:20:24.723 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/swagger/index.html - 200 null text/html;charset=utf-8 49.6039ms
+2026-04-14 06:20:24.838 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/_vs/browserLink - null null
+2026-04-14 06:20:24.847 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/_framework/aspnetcore-browser-refresh.js - null null
+2026-04-14 06:20:24.897 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/_framework/aspnetcore-browser-refresh.js - 200 16509 application/javascript; charset=utf-8 50.7665ms
+2026-04-14 06:20:24.929 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/_vs/browserLink - 200 null text/javascript; charset=UTF-8 92.1132ms
+2026-04-14 06:20:25.971 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/swagger/v1/swagger.json - null null
+2026-04-14 06:20:26.016 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 45.6885ms
+2026-04-14 06:28:05.418 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7222/auth/register - application/json 77
+2026-04-14 06:28:12.232 +05:30 [INF] Executing endpoint 'TaskFlow.Api.Controllers.AuthController.Register (TaskFlow.Api)'
+2026-04-14 06:28:12.768 +05:30 [INF] Route matched with {action = "Register", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Register(TaskFlow.Models.DTOs.RegisterRequest) on controller TaskFlow.Api.Controllers.AuthController (TaskFlow.Api).
+2026-04-14 06:29:14.382 +05:30 [ERR] Failed executing DbCommand (299ms) [Parameters=[@__email_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u."Id", u."CreatedAt", u."Email", u."Name", u."Password"
+FROM "Users" AS u
+WHERE u."Email" = @__email_0
+LIMIT 1
+2026-04-14 06:29:14.589 +05:30 [ERR] An exception occurred while iterating over the results of a query for context type 'TaskFlow.Repository.Context.TaskFlowDbContext'.
+Npgsql.PostgresException (0x80004005): 42P01: relation "Users" does not exist
+
+POSITION: 71
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+  Exception data:
+    Severity: ERROR
+    SqlState: 42P01
+    MessageText: relation "Users" does not exist
+    Position: 71
+    File: parse_relation.c
+    Line: 1452
+    Routine: parserOpenTable
+Npgsql.PostgresException (0x80004005): 42P01: relation "Users" does not exist
+
+POSITION: 71
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+  Exception data:
+    Severity: ERROR
+    SqlState: 42P01
+    MessageText: relation "Users" does not exist
+    Position: 71
+    File: parse_relation.c
+    Line: 1452
+    Routine: parserOpenTable
+2026-04-14 06:29:15.357 +05:30 [INF] Executed action TaskFlow.Api.Controllers.AuthController.Register (TaskFlow.Api) in 62551.2276ms
+2026-04-14 06:29:15.379 +05:30 [INF] Executed endpoint 'TaskFlow.Api.Controllers.AuthController.Register (TaskFlow.Api)'
+2026-04-14 06:29:15.645 +05:30 [ERR] Unhandled Exception occurred
+Npgsql.PostgresException (0x80004005): 42P01: relation "Users" does not exist
+
+POSITION: 71
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at TaskFlow.Repository.Concrete.UserRepository.GetByEmailAsync(String email) in D:\Projects\TaskFlow\backend\TaskFlow.Api\TaskFlow.Repository\Concrete\UserRepository.cs:line 19
+   at TaskFlow.Services.Concrete.AuthService.RegisterAsync(RegisterRequest request) in D:\Projects\TaskFlow\backend\TaskFlow.Api\TaskFlow.Services\Concrete\AuthService.cs:line 31
+   at TaskFlow.Api.Controllers.AuthController.Register(RegisterRequest request)
+   at lambda_method5(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at TaskFlow.Api.Middlewares.ExceptionMiddleware.Invoke(HttpContext context)
+  Exception data:
+    Severity: ERROR
+    SqlState: 42P01
+    MessageText: relation "Users" does not exist
+    Position: 71
+    File: parse_relation.c
+    Line: 1452
+    Routine: parserOpenTable
+2026-04-14 06:29:15.898 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7222/auth/register - 500 null application/json 70531.5359ms
+2026-04-14 06:36:10.010 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/swagger/index.html - null null
+2026-04-14 06:36:10.285 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/swagger/index.html - 200 null text/html;charset=utf-8 290.9001ms
+2026-04-14 06:36:10.780 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/_framework/aspnetcore-browser-refresh.js - null null
+2026-04-14 06:36:10.861 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/_framework/aspnetcore-browser-refresh.js - 200 16509 application/javascript; charset=utf-8 80.9645ms
+2026-04-14 06:36:10.906 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/_vs/browserLink - null null
+2026-04-14 06:36:11.012 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/_vs/browserLink - 200 null text/javascript; charset=UTF-8 105.3403ms
+2026-04-14 06:36:11.367 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/swagger/v1/swagger.json - null null
+2026-04-14 06:36:11.490 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 124.3341ms
+2026-04-14 06:37:37.548 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7222/auth/register - application/json 78
+2026-04-14 06:37:37.696 +05:30 [INF] Executing endpoint 'TaskFlow.Api.Controllers.AuthController.Register (TaskFlow.Api)'
+2026-04-14 06:37:37.791 +05:30 [INF] Route matched with {action = "Register", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Register(TaskFlow.Models.DTOs.RegisterRequest) on controller TaskFlow.Api.Controllers.AuthController (TaskFlow.Api).
+2026-04-14 06:37:48.327 +05:30 [ERR] Failed executing DbCommand (100ms) [Parameters=[@__email_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u."Id", u."CreatedAt", u."Email", u."Name", u."Password"
+FROM "Users" AS u
+WHERE u."Email" = @__email_0
+LIMIT 1
+2026-04-14 06:37:48.365 +05:30 [ERR] An exception occurred while iterating over the results of a query for context type 'TaskFlow.Repository.Context.TaskFlowDbContext'.
+Npgsql.PostgresException (0x80004005): 42P01: relation "Users" does not exist
+
+POSITION: 71
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+  Exception data:
+    Severity: ERROR
+    SqlState: 42P01
+    MessageText: relation "Users" does not exist
+    Position: 71
+    File: parse_relation.c
+    Line: 1452
+    Routine: parserOpenTable
+Npgsql.PostgresException (0x80004005): 42P01: relation "Users" does not exist
+
+POSITION: 71
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+  Exception data:
+    Severity: ERROR
+    SqlState: 42P01
+    MessageText: relation "Users" does not exist
+    Position: 71
+    File: parse_relation.c
+    Line: 1452
+    Routine: parserOpenTable
+2026-04-14 06:37:48.935 +05:30 [INF] Executed action TaskFlow.Api.Controllers.AuthController.Register (TaskFlow.Api) in 11138.0366ms
+2026-04-14 06:37:48.950 +05:30 [INF] Executed endpoint 'TaskFlow.Api.Controllers.AuthController.Register (TaskFlow.Api)'
+2026-04-14 06:37:49.175 +05:30 [ERR] Unhandled Exception occurred
+Npgsql.PostgresException (0x80004005): 42P01: relation "Users" does not exist
+
+POSITION: 71
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at TaskFlow.Repository.Concrete.UserRepository.GetByEmailAsync(String email)
+   at TaskFlow.Services.Concrete.AuthService.RegisterAsync(RegisterRequest request) in D:\Projects\TaskFlow\backend\TaskFlow.Api\TaskFlow.Services\Concrete\AuthService.cs:line 31
+   at TaskFlow.Api.Controllers.AuthController.Register(RegisterRequest request)
+   at lambda_method18(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at TaskFlow.Api.Middlewares.ExceptionMiddleware.Invoke(HttpContext context)
+  Exception data:
+    Severity: ERROR
+    SqlState: 42P01
+    MessageText: relation "Users" does not exist
+    Position: 71
+    File: parse_relation.c
+    Line: 1452
+    Routine: parserOpenTable
+2026-04-14 06:37:49.269 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7222/auth/register - 500 null application/json 11720.8132ms
+2026-04-14 06:39:24.904 +05:30 [INF] User profile is available. Using 'C:\Users\HP\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-04-14 06:39:26.388 +05:30 [INF] Now listening on: https://localhost:7222
+2026-04-14 06:39:26.393 +05:30 [INF] Now listening on: http://localhost:5186
+2026-04-14 06:39:26.675 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-14 06:39:26.696 +05:30 [INF] Hosting environment: Development
+2026-04-14 06:39:26.701 +05:30 [INF] Content root path: D:\Projects\TaskFlow\backend\TaskFlow.Api\TaskFlow.Api
+2026-04-14 06:39:30.681 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/swagger/index.html - null null
+2026-04-14 06:39:32.113 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/swagger/index.html - 200 null text/html;charset=utf-8 1463.2818ms
+2026-04-14 06:39:32.912 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/_vs/browserLink - null null
+2026-04-14 06:39:32.912 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/_framework/aspnetcore-browser-refresh.js - null null
+2026-04-14 06:39:32.994 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/_framework/aspnetcore-browser-refresh.js - 200 16509 application/javascript; charset=utf-8 68.5309ms
+2026-04-14 06:39:33.138 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/_vs/browserLink - 200 null text/javascript; charset=UTF-8 225.8247ms
+2026-04-14 06:39:34.094 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/swagger/v1/swagger.json - null null
+2026-04-14 06:39:34.169 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 77.0802ms
+2026-04-14 06:39:58.589 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7222/auth/register - application/json 77
+2026-04-14 06:39:58.840 +05:30 [INF] Executing endpoint 'TaskFlow.Api.Controllers.AuthController.Register (TaskFlow.Api)'
+2026-04-14 06:39:58.915 +05:30 [INF] Route matched with {action = "Register", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Register(TaskFlow.Models.DTOs.RegisterRequest) on controller TaskFlow.Api.Controllers.AuthController (TaskFlow.Api).
+2026-04-14 06:40:09.081 +05:30 [ERR] Failed executing DbCommand (178ms) [Parameters=[@__email_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u."Id", u."CreatedAt", u."Email", u."Name", u."Password"
+FROM "Users" AS u
+WHERE u."Email" = @__email_0
+LIMIT 1
+2026-04-14 06:40:09.218 +05:30 [ERR] An exception occurred while iterating over the results of a query for context type 'TaskFlow.Repository.Context.TaskFlowDbContext'.
+Npgsql.PostgresException (0x80004005): 42P01: relation "Users" does not exist
+
+POSITION: 71
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+  Exception data:
+    Severity: ERROR
+    SqlState: 42P01
+    MessageText: relation "Users" does not exist
+    Position: 71
+    File: parse_relation.c
+    Line: 1452
+    Routine: parserOpenTable
+Npgsql.PostgresException (0x80004005): 42P01: relation "Users" does not exist
+
+POSITION: 71
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+  Exception data:
+    Severity: ERROR
+    SqlState: 42P01
+    MessageText: relation "Users" does not exist
+    Position: 71
+    File: parse_relation.c
+    Line: 1452
+    Routine: parserOpenTable
+2026-04-14 06:40:09.764 +05:30 [INF] Executed action TaskFlow.Api.Controllers.AuthController.Register (TaskFlow.Api) in 10833.4121ms
+2026-04-14 06:40:09.771 +05:30 [INF] Executed endpoint 'TaskFlow.Api.Controllers.AuthController.Register (TaskFlow.Api)'
+2026-04-14 06:40:09.982 +05:30 [ERR] Unhandled Exception occurred
+Npgsql.PostgresException (0x80004005): 42P01: relation "Users" does not exist
+
+POSITION: 71
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at TaskFlow.Repository.Concrete.UserRepository.GetByEmailAsync(String email) in D:\Projects\TaskFlow\backend\TaskFlow.Api\TaskFlow.Repository\Concrete\UserRepository.cs:line 19
+   at TaskFlow.Services.Concrete.AuthService.RegisterAsync(RegisterRequest request) in D:\Projects\TaskFlow\backend\TaskFlow.Api\TaskFlow.Services\Concrete\AuthService.cs:line 31
+   at TaskFlow.Api.Controllers.AuthController.Register(RegisterRequest request) in D:\Projects\TaskFlow\backend\TaskFlow.Api\TaskFlow.Api\Controllers\AuthController.cs:line 23
+   at lambda_method5(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at TaskFlow.Api.Middlewares.ExceptionMiddleware.Invoke(HttpContext context) in D:\Projects\TaskFlow\backend\TaskFlow.Api\TaskFlow.Api\Middlewares\ExceptionMiddleware.cs:line 20
+  Exception data:
+    Severity: ERROR
+    SqlState: 42P01
+    MessageText: relation "Users" does not exist
+    Position: 71
+    File: parse_relation.c
+    Line: 1452
+    Routine: parserOpenTable
+2026-04-14 06:40:10.102 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7222/auth/register - 500 null application/json 11513.2756ms
+2026-04-14 06:48:16.367 +05:30 [INF] User profile is available. Using 'C:\Users\HP\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-04-14 06:48:17.706 +05:30 [INF] Now listening on: https://localhost:7222
+2026-04-14 06:48:17.708 +05:30 [INF] Now listening on: http://localhost:5186
+2026-04-14 06:48:18.145 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-14 06:48:18.147 +05:30 [INF] Hosting environment: Development
+2026-04-14 06:48:18.149 +05:30 [INF] Content root path: D:\Projects\TaskFlow\backend\TaskFlow.Api\TaskFlow.Api
+2026-04-14 06:48:19.511 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/swagger/index.html - null null
+2026-04-14 06:48:20.243 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/swagger/index.html - 200 null text/html;charset=utf-8 741.3129ms
+2026-04-14 06:48:20.539 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/_vs/browserLink - null null
+2026-04-14 06:48:20.539 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/_framework/aspnetcore-browser-refresh.js - null null
+2026-04-14 06:48:20.592 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/_framework/aspnetcore-browser-refresh.js - 200 16509 application/javascript; charset=utf-8 53.3215ms
+2026-04-14 06:48:20.695 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/_vs/browserLink - 200 null text/javascript; charset=UTF-8 156.9914ms
+2026-04-14 06:48:20.781 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/swagger/v1/swagger.json - null null
+2026-04-14 06:48:20.882 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 101.6992ms
+2026-04-14 06:49:18.793 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7222/auth/register - application/json 78
+2026-04-14 06:49:18.973 +05:30 [INF] Executing endpoint 'TaskFlow.Api.Controllers.AuthController.Register (TaskFlow.Api)'
+2026-04-14 06:49:19.053 +05:30 [INF] Route matched with {action = "Register", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Register(TaskFlow.Models.DTOs.RegisterRequest) on controller TaskFlow.Api.Controllers.AuthController (TaskFlow.Api).
+2026-04-14 06:49:29.593 +05:30 [INF] Executed DbCommand (164ms) [Parameters=[@__email_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u.id, u.created_at, u.email, u.name, u.password
+FROM "User" AS u
+WHERE u.email = @__email_0
+LIMIT 1
+2026-04-14 06:49:31.157 +05:30 [INF] Executed DbCommand (54ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = DateTime), @p2='?', @p3='?', @p4='?'], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "User" (id, created_at, email, name, password)
+VALUES (@p0, @p1, @p2, @p3, @p4);
+2026-04-14 06:49:31.461 +05:30 [INF] Executing OkObjectResult, writing value of type 'TaskFlow.Models.DTOs.AuthResponse'.
+2026-04-14 06:49:31.484 +05:30 [INF] Executed action TaskFlow.Api.Controllers.AuthController.Register (TaskFlow.Api) in 12419.3236ms
+2026-04-14 06:49:31.490 +05:30 [INF] Executed endpoint 'TaskFlow.Api.Controllers.AuthController.Register (TaskFlow.Api)'
+2026-04-14 06:49:31.516 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7222/auth/register - 200 null application/json; charset=utf-8 12723.018ms
+2026-04-14 06:51:11.060 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7222/auth/login - application/json 60
+2026-04-14 06:51:11.090 +05:30 [INF] Executing endpoint 'TaskFlow.Api.Controllers.AuthController.Login (TaskFlow.Api)'
+2026-04-14 06:51:11.120 +05:30 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[TaskFlow.Models.DTOs.AuthResponse]] Login(TaskFlow.Models.DTOs.LoginRequest) on controller TaskFlow.Api.Controllers.AuthController (TaskFlow.Api).
+2026-04-14 06:51:11.222 +05:30 [INF] Executed DbCommand (6ms) [Parameters=[@__email_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u.id, u.created_at, u.email, u.name, u.password
+FROM "User" AS u
+WHERE u.email = @__email_0
+LIMIT 1
+2026-04-14 06:51:11.722 +05:30 [INF] Executing OkObjectResult, writing value of type 'TaskFlow.Models.DTOs.AuthResponse'.
+2026-04-14 06:51:11.726 +05:30 [INF] Executed action TaskFlow.Api.Controllers.AuthController.Login (TaskFlow.Api) in 592.9135ms
+2026-04-14 06:51:11.729 +05:30 [INF] Executed endpoint 'TaskFlow.Api.Controllers.AuthController.Login (TaskFlow.Api)'
+2026-04-14 06:51:11.732 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7222/auth/login - 200 null application/json; charset=utf-8 672.935ms
+2026-04-14 06:52:06.248 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/projects - null null
+2026-04-14 06:52:06.331 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenMalformedException: IDX14100: JWT is not well formed, there are no dots (.).
+The token needs to be in JWS or JWE Compact Serialization Format. (JWS): 'EncodedHeader.EndcodedPayload.EncodedSignature'. (JWE): 'EncodedProtectedHeader.EncodedEncryptedKey.EncodedInitializationVector.EncodedCiphertext.EncodedAuthenticationTag'.
+ ---> System.ArgumentException: IDX14102: Unable to decode the header '[PII of type 'Microsoft.IdentityModel.Logging.SecurityArtifact' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]' as Base64Url encoded string.
+ ---> System.ArgumentOutOfRangeException: Specified argument was out of the range of valid values. (Parameter 'IDX10820: Invalid character found in Base64UrlEncoding. Character: '32', Encoding: '[PII of type 'System.String' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.')
+   at Microsoft.IdentityModel.Tokens.Base64UrlEncoding.Decode(String input, Int32 offset, Int32 length, Byte[] output)
+   at Microsoft.IdentityModel.Tokens.Base64UrlEncoding.Decode[T](String input, Int32 offset, Int32 length, Func`3 action)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.CreateClaimSet(String rawString, Int32 startIndex, Int32 length, Func`3 action)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.ReadToken(String encodedJson)
+   --- End of inner exception stack trace ---
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.ReadToken(String encodedJson)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken..ctor(String jwtEncodedString)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ReadToken(String token, TokenValidationParameters validationParameters)
+   --- End of inner exception stack trace ---
+2026-04-14 06:52:06.454 +05:30 [INF] Bearer was not authenticated. Failure message: IDX14100: JWT is not well formed, there are no dots (.).
+The token needs to be in JWS or JWE Compact Serialization Format. (JWS): 'EncodedHeader.EndcodedPayload.EncodedSignature'. (JWE): 'EncodedProtectedHeader.EncodedEncryptedKey.EncodedInitializationVector.EncodedCiphertext.EncodedAuthenticationTag'.
+2026-04-14 06:52:06.479 +05:30 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2026-04-14 06:52:06.497 +05:30 [INF] AuthenticationScheme: Bearer was challenged.
+2026-04-14 06:52:06.500 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/projects - 401 0 null 253.0729ms
+2026-04-14 06:52:25.093 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/projects - null null
+2026-04-14 06:52:25.301 +05:30 [INF] Executing endpoint 'TaskFlow.Api.Controllers.ProjectsController.GetProjects (TaskFlow.Api)'
+2026-04-14 06:52:25.312 +05:30 [INF] Route matched with {action = "GetProjects", controller = "Projects"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] GetProjects() on controller TaskFlow.Api.Controllers.ProjectsController (TaskFlow.Api).
+2026-04-14 06:52:25.558 +05:30 [ERR] Failed executing DbCommand (46ms) [Parameters=[@__ownerId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT p."Id", p."CreatedAt", p."Description", p."Name", p."OwnerId"
+FROM "Project" AS p
+WHERE p."OwnerId" = @__ownerId_0
+2026-04-14 06:52:25.619 +05:30 [ERR] An exception occurred while iterating over the results of a query for context type 'TaskFlow.Repository.Context.TaskFlowDbContext'.
+Npgsql.PostgresException (0x80004005): 42703: column p.Id does not exist
+
+POSITION: 8
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+  Exception data:
+    Severity: ERROR
+    SqlState: 42703
+    MessageText: column p.Id does not exist
+    Hint: Perhaps you meant to reference the column "p.id".
+    Position: 8
+    File: parse_relation.c
+    Line: 3732
+    Routine: errorMissingColumn
+Npgsql.PostgresException (0x80004005): 42703: column p.Id does not exist
+
+POSITION: 8
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+  Exception data:
+    Severity: ERROR
+    SqlState: 42703
+    MessageText: column p.Id does not exist
+    Hint: Perhaps you meant to reference the column "p.id".
+    Position: 8
+    File: parse_relation.c
+    Line: 3732
+    Routine: errorMissingColumn
+2026-04-14 06:52:26.127 +05:30 [INF] Executed action TaskFlow.Api.Controllers.ProjectsController.GetProjects (TaskFlow.Api) in 810.4591ms
+2026-04-14 06:52:26.134 +05:30 [INF] Executed endpoint 'TaskFlow.Api.Controllers.ProjectsController.GetProjects (TaskFlow.Api)'
+2026-04-14 06:52:26.398 +05:30 [ERR] Unhandled Exception occurred
+Npgsql.PostgresException (0x80004005): 42703: column p.Id does not exist
+
+POSITION: 8
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at TaskFlow.Repository.Concrete.ProjectRepository.GetByOwnerIdAsync(Guid ownerId) in D:\Projects\TaskFlow\backend\TaskFlow.Api\TaskFlow.Repository\Concrete\ProjectRepository.cs:line 31
+   at TaskFlow.Services.Concrete.ProjectService.GetUserProjectsAsync(Guid userId) in D:\Projects\TaskFlow\backend\TaskFlow.Api\TaskFlow.Services\Concrete\ProjectService.cs:line 19
+   at TaskFlow.Api.Controllers.ProjectsController.GetProjects() in D:\Projects\TaskFlow\backend\TaskFlow.Api\TaskFlow.Api\Controllers\ProjectsController.cs:line 25
+   at lambda_method82(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at TaskFlow.Api.Middlewares.ExceptionMiddleware.Invoke(HttpContext context) in D:\Projects\TaskFlow\backend\TaskFlow.Api\TaskFlow.Api\Middlewares\ExceptionMiddleware.cs:line 20
+  Exception data:
+    Severity: ERROR
+    SqlState: 42703
+    MessageText: column p.Id does not exist
+    Hint: Perhaps you meant to reference the column "p.id".
+    Position: 8
+    File: parse_relation.c
+    Line: 3732
+    Routine: errorMissingColumn
+2026-04-14 06:52:26.568 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/projects - 500 null application/json 1476.2236ms
+2026-04-14 06:54:39.067 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/swagger/index.html - null null
+2026-04-14 06:54:39.253 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/swagger/index.html - 200 null text/html;charset=utf-8 186.8006ms
+2026-04-14 06:54:39.859 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/_framework/aspnetcore-browser-refresh.js - null null
+2026-04-14 06:54:39.869 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/_vs/browserLink - null null
+2026-04-14 06:54:39.885 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/_framework/aspnetcore-browser-refresh.js - 200 16509 application/javascript; charset=utf-8 25.7383ms
+2026-04-14 06:54:39.983 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/_vs/browserLink - 200 null text/javascript; charset=UTF-8 113.737ms
+2026-04-14 06:54:40.846 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/swagger/v1/swagger.json - null null
+2026-04-14 06:54:40.908 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 61.8129ms
+2026-04-14 06:58:43.264 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/projects - null null
+2026-04-14 06:58:43.337 +05:30 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2026-04-14 06:58:43.349 +05:30 [INF] AuthenticationScheme: Bearer was challenged.
+2026-04-14 06:58:43.354 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/projects - 401 0 null 127.186ms
+2026-04-14 06:59:54.454 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/swagger/index.html - null null
+2026-04-14 06:59:54.546 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/swagger/index.html - 200 null text/html;charset=utf-8 93.6398ms
+2026-04-14 06:59:57.801 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/swagger/index.html - null null
+2026-04-14 06:59:57.853 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/swagger/index.html - 200 null text/html;charset=utf-8 51.4491ms
+2026-04-14 06:59:58.055 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/_framework/aspnetcore-browser-refresh.js - null null
+2026-04-14 06:59:58.109 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/_framework/aspnetcore-browser-refresh.js - 200 16509 application/javascript; charset=utf-8 53.8192ms
+2026-04-14 06:59:58.187 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/_vs/browserLink - null null
+2026-04-14 06:59:58.260 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/_vs/browserLink - 200 null text/javascript; charset=UTF-8 73.4053ms
+2026-04-14 06:59:58.466 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/swagger/v1/swagger.json - null null
+2026-04-14 06:59:58.573 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 107.8017ms
+2026-04-14 07:13:41.550 +05:30 [INF] User profile is available. Using 'C:\Users\HP\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-04-14 07:13:43.009 +05:30 [INF] Now listening on: https://localhost:7222
+2026-04-14 07:13:43.016 +05:30 [INF] Now listening on: http://localhost:5186
+2026-04-14 07:13:43.269 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-14 07:13:43.289 +05:30 [INF] Hosting environment: Development
+2026-04-14 07:13:43.320 +05:30 [INF] Content root path: D:\Projects\TaskFlow\backend\TaskFlow.Api\TaskFlow.Api
+2026-04-14 07:13:45.676 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/swagger/index.html - null null
+2026-04-14 07:13:46.753 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/swagger/index.html - 200 null text/html;charset=utf-8 1094.4228ms
+2026-04-14 07:13:46.865 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/_framework/aspnetcore-browser-refresh.js - null null
+2026-04-14 07:13:46.961 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/_framework/aspnetcore-browser-refresh.js - 200 16509 application/javascript; charset=utf-8 95.7021ms
+2026-04-14 07:13:47.115 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/_vs/browserLink - null null
+2026-04-14 07:13:47.382 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/_vs/browserLink - 200 null text/javascript; charset=UTF-8 267.425ms
+2026-04-14 07:13:47.685 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/swagger/v1/swagger.json - null null
+2026-04-14 07:13:47.775 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 89.8546ms
+2026-04-14 07:26:59.769 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7222/projects - application/json 71
+2026-04-14 07:27:00.598 +05:30 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2026-04-14 07:27:00.613 +05:30 [INF] AuthenticationScheme: Bearer was challenged.
+2026-04-14 07:27:00.621 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7222/projects - 401 0 null 899.1814ms
+2026-04-14 07:27:38.432 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7222/projects - application/json 71
+2026-04-14 07:27:38.943 +05:30 [INF] Executing endpoint 'TaskFlow.Api.Controllers.ProjectsController.Create (TaskFlow.Api)'
+2026-04-14 07:27:39.202 +05:30 [INF] Route matched with {action = "Create", controller = "Projects"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Create(TaskFlow.Models.DTOs.Project.ProjectCreateRequest) on controller TaskFlow.Api.Controllers.ProjectsController (TaskFlow.Api).
+2026-04-14 07:27:43.270 +05:30 [INF] Executed DbCommand (217ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = DateTime), @p2='?', @p3='?', @p4='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "Project" (id, created_at, description, name, owner_id)
+VALUES (@p0, @p1, @p2, @p3, @p4);
+2026-04-14 07:27:43.375 +05:30 [INF] Executing CreatedAtActionResult, writing value of type 'TaskFlow.Models.DTOs.Project.ProjectResponse'.
+2026-04-14 07:27:43.501 +05:30 [INF] Executed action TaskFlow.Api.Controllers.ProjectsController.Create (TaskFlow.Api) in 4282.3921ms
+2026-04-14 07:27:43.506 +05:30 [INF] Executed endpoint 'TaskFlow.Api.Controllers.ProjectsController.Create (TaskFlow.Api)'
+2026-04-14 07:27:43.528 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7222/projects - 201 null application/json; charset=utf-8 5096.941ms
+2026-04-14 07:28:22.263 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/projects/24cec8e0-9059-4d12-bfd7-cedacb2d3768 - null null
+2026-04-14 07:28:22.298 +05:30 [INF] Executing endpoint 'TaskFlow.Api.Controllers.ProjectsController.GetProjectById (TaskFlow.Api)'
+2026-04-14 07:28:22.326 +05:30 [INF] Route matched with {action = "GetProjectById", controller = "Projects"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] GetProjectById(System.Guid) on controller TaskFlow.Api.Controllers.ProjectsController (TaskFlow.Api).
+2026-04-14 07:28:23.432 +05:30 [INF] Executed DbCommand (17ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT p.id, p.created_at, p.description, p.name, p.owner_id
+FROM "Project" AS p
+WHERE p.id = @__id_0
+LIMIT 1
+2026-04-14 07:28:23.497 +05:30 [INF] Executing OkObjectResult, writing value of type 'TaskFlow.Models.DTOs.Project.ProjectResponse'.
+2026-04-14 07:28:23.501 +05:30 [INF] Executed action TaskFlow.Api.Controllers.ProjectsController.GetProjectById (TaskFlow.Api) in 1168.142ms
+2026-04-14 07:28:23.506 +05:30 [INF] Executed endpoint 'TaskFlow.Api.Controllers.ProjectsController.GetProjectById (TaskFlow.Api)'
+2026-04-14 07:28:23.509 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/projects/24cec8e0-9059-4d12-bfd7-cedacb2d3768 - 200 null application/json; charset=utf-8 1246.9561ms
+2026-04-14 07:28:29.455 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7222/projects - application/json 71
+2026-04-14 07:28:29.471 +05:30 [INF] Executing endpoint 'TaskFlow.Api.Controllers.ProjectsController.Create (TaskFlow.Api)'
+2026-04-14 07:28:29.476 +05:30 [INF] Route matched with {action = "Create", controller = "Projects"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Create(TaskFlow.Models.DTOs.Project.ProjectCreateRequest) on controller TaskFlow.Api.Controllers.ProjectsController (TaskFlow.Api).
+2026-04-14 07:28:29.534 +05:30 [INF] Executed DbCommand (5ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = DateTime), @p2='?', @p3='?', @p4='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "Project" (id, created_at, description, name, owner_id)
+VALUES (@p0, @p1, @p2, @p3, @p4);
+2026-04-14 07:28:29.542 +05:30 [INF] Executing CreatedAtActionResult, writing value of type 'TaskFlow.Models.DTOs.Project.ProjectResponse'.
+2026-04-14 07:28:29.555 +05:30 [INF] Executed action TaskFlow.Api.Controllers.ProjectsController.Create (TaskFlow.Api) in 72.056ms
+2026-04-14 07:28:29.563 +05:30 [INF] Executed endpoint 'TaskFlow.Api.Controllers.ProjectsController.Create (TaskFlow.Api)'
+2026-04-14 07:28:29.570 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7222/projects - 201 null application/json; charset=utf-8 116.0193ms
+2026-04-14 07:29:17.412 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/projects - null null
+2026-04-14 07:29:17.463 +05:30 [INF] Executing endpoint 'TaskFlow.Api.Controllers.ProjectsController.GetProjects (TaskFlow.Api)'
+2026-04-14 07:29:17.477 +05:30 [INF] Route matched with {action = "GetProjects", controller = "Projects"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] GetProjects() on controller TaskFlow.Api.Controllers.ProjectsController (TaskFlow.Api).
+2026-04-14 07:29:17.530 +05:30 [INF] Executed DbCommand (4ms) [Parameters=[@__ownerId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT p.id, p.created_at, p.description, p.name, p.owner_id
+FROM "Project" AS p
+WHERE p.owner_id = @__ownerId_0
+2026-04-14 07:29:17.551 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TaskFlow.Models.DTOs.Project.ProjectResponse, TaskFlow.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-04-14 07:29:17.567 +05:30 [INF] Executed action TaskFlow.Api.Controllers.ProjectsController.GetProjects (TaskFlow.Api) in 84.1808ms
+2026-04-14 07:29:17.572 +05:30 [INF] Executed endpoint 'TaskFlow.Api.Controllers.ProjectsController.GetProjects (TaskFlow.Api)'
+2026-04-14 07:29:17.579 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/projects - 200 null application/json; charset=utf-8 167.9305ms
+2026-04-14 07:29:42.817 +05:30 [INF] Request starting HTTP/2 PATCH https://localhost:7222/projects/24cec8e0-9059-4d12-bfd7-cedacb2d3768 - application/json 25
+2026-04-14 07:29:42.844 +05:30 [INF] Executing endpoint 'TaskFlow.Api.Controllers.ProjectsController.Update (TaskFlow.Api)'
+2026-04-14 07:29:42.864 +05:30 [INF] Route matched with {action = "Update", controller = "Projects"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Update(System.Guid, TaskFlow.Models.DTOs.Project.ProjectUpdateRequest) on controller TaskFlow.Api.Controllers.ProjectsController (TaskFlow.Api).
+2026-04-14 07:29:42.902 +05:30 [INF] Executed DbCommand (3ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT p.id, p.created_at, p.description, p.name, p.owner_id
+FROM "Project" AS p
+WHERE p.id = @__id_0
+LIMIT 1
+2026-04-14 07:29:42.993 +05:30 [ERR] Failed executing DbCommand (54ms) [Parameters=[@p4='?' (DbType = Guid), @p0='?' (DbType = DateTime), @p1='?', @p2='?', @p3='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+UPDATE "Project" SET created_at = @p0, description = @p1, name = @p2, owner_id = @p3
+WHERE id = @p4;
+2026-04-14 07:29:43.160 +05:30 [ERR] An exception occurred in the database while saving changes for context type 'TaskFlow.Repository.Context.TaskFlowDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> System.ArgumentException: Cannot write DateTime with Kind=Unspecified to PostgreSQL type 'timestamp with time zone', only UTC is supported. Note that it's not possible to mix DateTimes with different Kinds in an array, range, or multirange. (Parameter 'value')
+   at Npgsql.Internal.Converters.DateTimeConverterResolver`1.Get(DateTime value, Nullable`1 expectedPgTypeId, Boolean validateOnly)
+   at Npgsql.Internal.Converters.DateTimeConverterResolver.<>c.<CreateResolver>b__0_0(DateTimeConverterResolver`1 resolver, DateTime value, Nullable`1 expectedPgTypeId)
+   at Npgsql.Internal.Converters.DateTimeConverterResolver`1.Get(T value, Nullable`1 expectedPgTypeId)
+   at Npgsql.Internal.PgConverterResolver`1.GetAsObjectInternal(PgTypeInfo typeInfo, Object value, Nullable`1 expectedPgTypeId)
+   at Npgsql.Internal.PgResolverTypeInfo.GetResolutionAsObject(Object value, Nullable`1 expectedPgTypeId)
+   at Npgsql.Internal.PgTypeInfo.GetObjectResolution(Object value)
+   at Npgsql.NpgsqlParameter.ResolveConverter(PgTypeInfo typeInfo)
+   at Npgsql.NpgsqlParameter.ResolveTypeInfo(PgSerializerOptions options)
+   at Npgsql.NpgsqlParameterCollection.ProcessParameters(PgSerializerOptions options, Boolean validateValues, CommandType commandType)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> System.ArgumentException: Cannot write DateTime with Kind=Unspecified to PostgreSQL type 'timestamp with time zone', only UTC is supported. Note that it's not possible to mix DateTimes with different Kinds in an array, range, or multirange. (Parameter 'value')
+   at Npgsql.Internal.Converters.DateTimeConverterResolver`1.Get(DateTime value, Nullable`1 expectedPgTypeId, Boolean validateOnly)
+   at Npgsql.Internal.Converters.DateTimeConverterResolver.<>c.<CreateResolver>b__0_0(DateTimeConverterResolver`1 resolver, DateTime value, Nullable`1 expectedPgTypeId)
+   at Npgsql.Internal.Converters.DateTimeConverterResolver`1.Get(T value, Nullable`1 expectedPgTypeId)
+   at Npgsql.Internal.PgConverterResolver`1.GetAsObjectInternal(PgTypeInfo typeInfo, Object value, Nullable`1 expectedPgTypeId)
+   at Npgsql.Internal.PgResolverTypeInfo.GetResolutionAsObject(Object value, Nullable`1 expectedPgTypeId)
+   at Npgsql.Internal.PgTypeInfo.GetObjectResolution(Object value)
+   at Npgsql.NpgsqlParameter.ResolveConverter(PgTypeInfo typeInfo)
+   at Npgsql.NpgsqlParameter.ResolveTypeInfo(PgSerializerOptions options)
+   at Npgsql.NpgsqlParameterCollection.ProcessParameters(PgSerializerOptions options, Boolean validateValues, CommandType commandType)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2026-04-14 07:29:43.822 +05:30 [INF] Executed action TaskFlow.Api.Controllers.ProjectsController.Update (TaskFlow.Api) in 953.2541ms
+2026-04-14 07:29:43.831 +05:30 [INF] Executed endpoint 'TaskFlow.Api.Controllers.ProjectsController.Update (TaskFlow.Api)'
+2026-04-14 07:29:44.133 +05:30 [ERR] Unhandled Exception occurred
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> System.ArgumentException: Cannot write DateTime with Kind=Unspecified to PostgreSQL type 'timestamp with time zone', only UTC is supported. Note that it's not possible to mix DateTimes with different Kinds in an array, range, or multirange. (Parameter 'value')
+   at Npgsql.Internal.Converters.DateTimeConverterResolver`1.Get(DateTime value, Nullable`1 expectedPgTypeId, Boolean validateOnly)
+   at Npgsql.Internal.Converters.DateTimeConverterResolver.<>c.<CreateResolver>b__0_0(DateTimeConverterResolver`1 resolver, DateTime value, Nullable`1 expectedPgTypeId)
+   at Npgsql.Internal.Converters.DateTimeConverterResolver`1.Get(T value, Nullable`1 expectedPgTypeId)
+   at Npgsql.Internal.PgConverterResolver`1.GetAsObjectInternal(PgTypeInfo typeInfo, Object value, Nullable`1 expectedPgTypeId)
+   at Npgsql.Internal.PgResolverTypeInfo.GetResolutionAsObject(Object value, Nullable`1 expectedPgTypeId)
+   at Npgsql.Internal.PgTypeInfo.GetObjectResolution(Object value)
+   at Npgsql.NpgsqlParameter.ResolveConverter(PgTypeInfo typeInfo)
+   at Npgsql.NpgsqlParameter.ResolveTypeInfo(PgSerializerOptions options)
+   at Npgsql.NpgsqlParameterCollection.ProcessParameters(PgSerializerOptions options, Boolean validateValues, CommandType commandType)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at TaskFlow.Repository.Concrete.ProjectRepository.UpdateAsync(Project project) in D:\Projects\TaskFlow\backend\TaskFlow.Api\TaskFlow.Repository\Concrete\ProjectRepository.cs:line 45
+   at TaskFlow.Services.Concrete.ProjectService.UpdateProjectAsync(Guid id, Guid userId, ProjectUpdateRequest request) in D:\Projects\TaskFlow\backend\TaskFlow.Api\TaskFlow.Services\Concrete\ProjectService.cs:line 81
+   at TaskFlow.Api.Controllers.ProjectsController.Update(Guid id, ProjectUpdateRequest request) in D:\Projects\TaskFlow\backend\TaskFlow.Api\TaskFlow.Api\Controllers\ProjectsController.cs:line 56
+   at lambda_method92(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at TaskFlow.Api.Middlewares.ExceptionMiddleware.Invoke(HttpContext context) in D:\Projects\TaskFlow\backend\TaskFlow.Api\TaskFlow.Api\Middlewares\ExceptionMiddleware.cs:line 20
+2026-04-14 07:29:44.365 +05:30 [INF] Request finished HTTP/2 PATCH https://localhost:7222/projects/24cec8e0-9059-4d12-bfd7-cedacb2d3768 - 500 null application/json 1548.7085ms
+2026-04-14 07:56:18.557 +05:30 [WRN] The foreign key property 'Project.OwnerId1' was created in shadow state because a conflicting property with the simple name 'OwnerId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2026-04-14 07:56:18.704 +05:30 [WRN] The foreign key property 'Task.AssigneeId1' was created in shadow state because a conflicting property with the simple name 'AssigneeId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2026-04-14 07:56:18.708 +05:30 [WRN] The foreign key property 'Task.ProjectId1' was created in shadow state because a conflicting property with the simple name 'ProjectId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2026-04-14 07:56:18.782 +05:30 [WRN] The 'TaskPriority' property 'Priority' on entity type 'Task' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value 'low', since this is the CLR default for the 'TaskPriority' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-04-14 07:56:19.899 +05:30 [INF] Executed DbCommand (91ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1 FROM pg_catalog.pg_class c
+    JOIN pg_catalog.pg_namespace n ON n.oid=c.relnamespace
+    WHERE n.nspname='public' AND
+          c.relname='__EFMigrationsHistory'
+)
+2026-04-14 07:56:20.083 +05:30 [INF] Executed DbCommand (10ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1 FROM pg_catalog.pg_class c
+    JOIN pg_catalog.pg_namespace n ON n.oid=c.relnamespace
+    WHERE n.nspname='public' AND
+          c.relname='__EFMigrationsHistory'
+)
+2026-04-14 07:56:20.525 +05:30 [INF] Executed DbCommand (291ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE "__EFMigrationsHistory" (
+    "MigrationId" character varying(150) NOT NULL,
+    "ProductVersion" character varying(32) NOT NULL,
+    CONSTRAINT "PK___EFMigrationsHistory" PRIMARY KEY ("MigrationId")
+);
+2026-04-14 07:56:20.692 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1 FROM pg_catalog.pg_class c
+    JOIN pg_catalog.pg_namespace n ON n.oid=c.relnamespace
+    WHERE n.nspname='public' AND
+          c.relname='__EFMigrationsHistory'
+)
+2026-04-14 07:56:20.703 +05:30 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2026-04-14 07:56:20.723 +05:30 [INF] No migrations were applied. The database is already up to date.
+2026-04-14 07:57:07.368 +05:30 [INF] Executed DbCommand (18ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "User" AS u)
+2026-04-14 07:57:09.950 +05:30 [INF] User profile is available. Using 'C:\Users\HP\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-04-14 07:57:11.808 +05:30 [INF] Now listening on: https://localhost:7222
+2026-04-14 07:57:11.811 +05:30 [INF] Now listening on: http://localhost:5186
+2026-04-14 07:57:12.027 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-14 07:57:12.029 +05:30 [INF] Hosting environment: Development
+2026-04-14 07:57:12.032 +05:30 [INF] Content root path: D:\Projects\TaskFlow\backend\TaskFlow.Api\TaskFlow.Api
+2026-04-14 07:57:15.471 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/swagger/index.html - null null
+2026-04-14 07:57:16.448 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/swagger/index.html - 200 null text/html;charset=utf-8 990.6731ms
+2026-04-14 07:57:17.165 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/_framework/aspnetcore-browser-refresh.js - null null
+2026-04-14 07:57:17.209 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/_vs/browserLink - null null
+2026-04-14 07:57:17.234 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/_framework/aspnetcore-browser-refresh.js - 200 16509 application/javascript; charset=utf-8 66.8042ms
+2026-04-14 07:57:17.533 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/_vs/browserLink - 200 null text/javascript; charset=UTF-8 326.0905ms
+2026-04-14 07:57:17.797 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7222/swagger/v1/swagger.json - null null
+2026-04-14 07:57:17.910 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7222/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 113.3563ms
+2026-04-14 08:09:41.920 +05:30 [WRN] The foreign key property 'Project.OwnerId1' was created in shadow state because a conflicting property with the simple name 'OwnerId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2026-04-14 08:09:42.014 +05:30 [WRN] The foreign key property 'Task.AssigneeId1' was created in shadow state because a conflicting property with the simple name 'AssigneeId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2026-04-14 08:09:42.018 +05:30 [WRN] The foreign key property 'Task.ProjectId1' was created in shadow state because a conflicting property with the simple name 'ProjectId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2026-04-14 08:09:42.053 +05:30 [WRN] The 'TaskPriority' property 'Priority' on entity type 'Task' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value 'low', since this is the CLR default for the 'TaskPriority' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-04-14 08:09:43.103 +05:30 [INF] Executed DbCommand (97ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1 FROM pg_catalog.pg_class c
+    JOIN pg_catalog.pg_namespace n ON n.oid=c.relnamespace
+    WHERE n.nspname='public' AND
+          c.relname='__EFMigrationsHistory'
+)
+2026-04-14 08:09:43.145 +05:30 [INF] Executed DbCommand (13ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2026-04-14 08:09:43.199 +05:30 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1 FROM pg_catalog.pg_class c
+    JOIN pg_catalog.pg_namespace n ON n.oid=c.relnamespace
+    WHERE n.nspname='public' AND
+          c.relname='__EFMigrationsHistory'
+)
+2026-04-14 08:09:43.263 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1 FROM pg_catalog.pg_class c
+    JOIN pg_catalog.pg_namespace n ON n.oid=c.relnamespace
+    WHERE n.nspname='public' AND
+          c.relname='__EFMigrationsHistory'
+)
+2026-04-14 08:09:43.268 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2026-04-14 08:09:43.294 +05:30 [INF] No migrations were applied. The database is already up to date.
+2026-04-14 08:09:45.018 +05:30 [INF] Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "User" AS u)
+2026-04-14 08:09:55.125 +05:30 [ERR] Failed executing DbCommand (91ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = DateTime), @p2='?', @p3='?', @p4='?', @p5='?' (DbType = Guid), @p6='?' (DbType = DateTime), @p7='?', @p8='?', @p9='?' (DbType = Guid), @p10='?' (DbType = Guid), @p11='?' (DbType = Guid), @p12='?' (DbType = Guid), @p13='?' (DbType = Guid), @p14='?' (DbType = DateTime), @p15='?', @p16='?' (DbType = DateTime), @p17='?' (DbType = Int32), @p18='?' (DbType = Guid), @p19='?' (DbType = Guid), @p20='?' (DbType = Int32), @p21='?', @p22='?' (DbType = DateTime), @p23='?' (DbType = Guid), @p24='?' (DbType = Guid), @p25='?' (DbType = Guid), @p26='?' (DbType = DateTime), @p27='?', @p28='?' (DbType = DateTime), @p29='?' (DbType = Guid), @p30='?' (DbType = Guid), @p31='?', @p32='?' (DbType = DateTime), @p33='?' (DbType = Guid), @p34='?' (DbType = Guid), @p35='?' (DbType = Guid), @p36='?' (DbType = DateTime), @p37='?', @p38='?' (DbType = DateTime), @p39='?' (DbType = Int32), @p40='?' (DbType = Guid), @p41='?' (DbType = Guid), @p42='?' (DbType = Int32), @p43='?', @p44='?' (DbType = DateTime)], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "User" (id, created_at, email, name, password)
+VALUES (@p0, @p1, @p2, @p3, @p4);
+INSERT INTO "Project" (id, created_at, description, name, owner_id, "OwnerId1")
+VALUES (@p5, @p6, @p7, @p8, @p9, @p10);
+INSERT INTO "Task" (id, assignee_id, "AssigneeId1", created_at, description, due_date, priority, project_id, "ProjectId1", status, title, updated_at)
+VALUES (@p11, @p12, @p13, @p14, @p15, @p16, @p17, @p18, @p19, @p20, @p21, @p22);
+INSERT INTO "Task" (id, assignee_id, "AssigneeId1", created_at, description, due_date, project_id, "ProjectId1", title, updated_at)
+VALUES (@p23, @p24, @p25, @p26, @p27, @p28, @p29, @p30, @p31, @p32)
+RETURNING priority, status;
+INSERT INTO "Task" (id, assignee_id, "AssigneeId1", created_at, description, due_date, priority, project_id, "ProjectId1", status, title, updated_at)
+VALUES (@p33, @p34, @p35, @p36, @p37, @p38, @p39, @p40, @p41, @p42, @p43, @p44);
+2026-04-14 08:09:55.222 +05:30 [ERR] An exception occurred in the database while saving changes for context type 'TaskFlow.Repository.Context.TaskFlowDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 42703: column "OwnerId1" of relation "Project" does not exist
+
+POSITION: 69
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult()
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+  Exception data:
+    Severity: ERROR
+    SqlState: 42703
+    MessageText: column "OwnerId1" of relation "Project" does not exist
+    Position: 69
+    File: parse_target.c
+    Line: 1070
+    Routine: checkInsertTargets
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.<>c.<SaveChanges>b__112_0(DbContext _, ValueTuple`2 t)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 42703: column "OwnerId1" of relation "Project" does not exist
+
+POSITION: 69
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult()
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+  Exception data:
+    Severity: ERROR
+    SqlState: 42703
+    MessageText: column "OwnerId1" of relation "Project" does not exist
+    Position: 69
+    File: parse_target.c
+    Line: 1070
+    Routine: checkInsertTargets
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.<>c.<SaveChanges>b__112_0(DbContext _, ValueTuple`2 t)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2026-04-14 08:20:58.282 +05:30 [WRN] The 'TaskPriority' property 'Priority' on entity type 'Task' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value 'low', since this is the CLR default for the 'TaskPriority' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-04-14 08:21:00.101 +05:30 [INF] Executed DbCommand (137ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1 FROM pg_catalog.pg_class c
+    JOIN pg_catalog.pg_namespace n ON n.oid=c.relnamespace
+    WHERE n.nspname='public' AND
+          c.relname='__EFMigrationsHistory'
+)
+2026-04-14 08:21:00.154 +05:30 [INF] Executed DbCommand (14ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2026-04-14 08:21:00.226 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1 FROM pg_catalog.pg_class c
+    JOIN pg_catalog.pg_namespace n ON n.oid=c.relnamespace
+    WHERE n.nspname='public' AND
+          c.relname='__EFMigrationsHistory'
+)
+2026-04-14 08:21:00.291 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1 FROM pg_catalog.pg_class c
+    JOIN pg_catalog.pg_namespace n ON n.oid=c.relnamespace
+    WHERE n.nspname='public' AND
+          c.relname='__EFMigrationsHistory'
+)
+2026-04-14 08:21:00.297 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2026-04-14 08:21:00.343 +05:30 [INF] No migrations were applied. The database is already up to date.
+2026-04-14 08:21:02.882 +05:30 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "User" AS u)
+2026-04-14 08:21:24.353 +05:30 [ERR] Failed executing DbCommand (110ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = DateTime), @p2='?', @p3='?', @p4='?', @p5='?' (DbType = Guid), @p6='?' (DbType = DateTime), @p7='?', @p8='?', @p9='?' (DbType = Guid), @p10='?' (DbType = Guid), @p11='?' (DbType = Guid), @p12='?' (DbType = DateTime), @p13='?', @p14='?' (DbType = DateTime), @p15='?' (DbType = Int32), @p16='?' (DbType = Guid), @p17='?' (DbType = Int32), @p18='?', @p19='?' (DbType = DateTime), @p20='?' (DbType = Guid), @p21='?' (DbType = Guid), @p22='?' (DbType = DateTime), @p23='?', @p24='?' (DbType = DateTime), @p25='?' (DbType = Int32), @p26='?' (DbType = Guid), @p27='?' (DbType = Int32), @p28='?', @p29='?' (DbType = DateTime), @p30='?' (DbType = Guid), @p31='?' (DbType = Guid), @p32='?' (DbType = DateTime), @p33='?', @p34='?' (DbType = DateTime), @p35='?' (DbType = Guid), @p36='?', @p37='?' (DbType = DateTime)], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "User" (id, created_at, email, name, password)
+VALUES (@p0, @p1, @p2, @p3, @p4);
+INSERT INTO "Project" (id, created_at, description, name, owner_id)
+VALUES (@p5, @p6, @p7, @p8, @p9);
+INSERT INTO "Task" (id, assignee_id, created_at, description, due_date, priority, project_id, status, title, updated_at)
+VALUES (@p10, @p11, @p12, @p13, @p14, @p15, @p16, @p17, @p18, @p19);
+INSERT INTO "Task" (id, assignee_id, created_at, description, due_date, priority, project_id, status, title, updated_at)
+VALUES (@p20, @p21, @p22, @p23, @p24, @p25, @p26, @p27, @p28, @p29);
+INSERT INTO "Task" (id, assignee_id, created_at, description, due_date, project_id, title, updated_at)
+VALUES (@p30, @p31, @p32, @p33, @p34, @p35, @p36, @p37)
+RETURNING priority, status;
+2026-04-14 08:21:24.468 +05:30 [ERR] An exception occurred in the database while saving changes for context type 'TaskFlow.Repository.Context.TaskFlowDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 42804: column "priority" is of type task_priority but expression is of type integer
+
+POSITION: 151
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult()
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+  Exception data:
+    Severity: ERROR
+    SqlState: 42804
+    MessageText: column "priority" is of type task_priority but expression is of type integer
+    Hint: You will need to rewrite or cast the expression.
+    Position: 151
+    File: parse_target.c
+    Line: 593
+    Routine: transformAssignedExpr
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.<>c.<SaveChanges>b__112_0(DbContext _, ValueTuple`2 t)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 42804: column "priority" is of type task_priority but expression is of type integer
+
+POSITION: 151
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult()
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+  Exception data:
+    Severity: ERROR
+    SqlState: 42804
+    MessageText: column "priority" is of type task_priority but expression is of type integer
+    Hint: You will need to rewrite or cast the expression.
+    Position: 151
+    File: parse_target.c
+    Line: 593
+    Routine: transformAssignedExpr
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.<>c.<SaveChanges>b__112_0(DbContext _, ValueTuple`2 t)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2026-04-14 08:24:40.197 +05:30 [WRN] The 'TaskPriority' property 'Priority' on entity type 'Task' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value 'low', since this is the CLR default for the 'TaskPriority' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-04-14 08:24:41.133 +05:30 [INF] Executed DbCommand (91ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1 FROM pg_catalog.pg_class c
+    JOIN pg_catalog.pg_namespace n ON n.oid=c.relnamespace
+    WHERE n.nspname='public' AND
+          c.relname='__EFMigrationsHistory'
+)
+2026-04-14 08:24:41.169 +05:30 [INF] Executed DbCommand (10ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2026-04-14 08:24:41.340 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1 FROM pg_catalog.pg_class c
+    JOIN pg_catalog.pg_namespace n ON n.oid=c.relnamespace
+    WHERE n.nspname='public' AND
+          c.relname='__EFMigrationsHistory'
+)
+2026-04-14 08:24:41.386 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1 FROM pg_catalog.pg_class c
+    JOIN pg_catalog.pg_namespace n ON n.oid=c.relnamespace
+    WHERE n.nspname='public' AND
+          c.relname='__EFMigrationsHistory'
+)
+2026-04-14 08:24:41.392 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2026-04-14 08:24:41.429 +05:30 [INF] No migrations were applied. The database is already up to date.
+2026-04-14 08:24:42.378 +05:30 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "User" AS u)
+2026-04-14 08:24:48.642 +05:30 [INF] Executed DbCommand (88ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = DateTime), @p2='?', @p3='?', @p4='?', @p5='?' (DbType = Guid), @p6='?' (DbType = DateTime), @p7='?', @p8='?', @p9='?' (DbType = Guid), @p10='?' (DbType = Guid), @p11='?' (DbType = Guid), @p12='?' (DbType = DateTime), @p13='?', @p14='?' (DbType = DateTime), @p15='?' (DbType = Guid), @p16='?', @p17='?' (DbType = DateTime), @p18='?' (DbType = Guid), @p19='?' (DbType = Guid), @p20='?' (DbType = DateTime), @p21='?', @p22='?' (DbType = DateTime), @p23='?' (DbType = Int32), @p24='?' (DbType = Guid), @p25='?' (DbType = Int32), @p26='?', @p27='?' (DbType = DateTime), @p28='?' (DbType = Guid), @p29='?' (DbType = Guid), @p30='?' (DbType = DateTime), @p31='?', @p32='?' (DbType = DateTime), @p33='?' (DbType = Int32), @p34='?' (DbType = Guid), @p35='?' (DbType = Int32), @p36='?', @p37='?' (DbType = DateTime)], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "User" (id, created_at, email, name, password)
+VALUES (@p0, @p1, @p2, @p3, @p4);
+INSERT INTO "Project" (id, created_at, description, name, owner_id)
+VALUES (@p5, @p6, @p7, @p8, @p9);
+INSERT INTO "Task" (id, assignee_id, created_at, description, due_date, project_id, title, updated_at)
+VALUES (@p10, @p11, @p12, @p13, @p14, @p15, @p16, @p17)
+RETURNING priority, status;
+INSERT INTO "Task" (id, assignee_id, created_at, description, due_date, priority, project_id, status, title, updated_at)
+VALUES (@p18, @p19, @p20, @p21, @p22, @p23, @p24, @p25, @p26, @p27);
+INSERT INTO "Task" (id, assignee_id, created_at, description, due_date, priority, project_id, status, title, updated_at)
+VALUES (@p28, @p29, @p30, @p31, @p32, @p33, @p34, @p35, @p36, @p37);
+2026-04-14 08:24:48.896 +05:30 [ERR] An exception occurred in the database while saving changes for context type 'TaskFlow.Repository.Context.TaskFlowDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 42804: column "priority" is of type task_priority but expression is of type integer
+
+POSITION: 151
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.Consume(Boolean async, Exception firstException)
+   at Npgsql.NpgsqlDataReader.Consume(Boolean async, Exception firstException)
+   at Npgsql.NpgsqlDataReader.Close(Boolean async, Boolean connectionClosing, Boolean isDisposing)
+   at Npgsql.NpgsqlDataReader.Close(Boolean async, Boolean connectionClosing, Boolean isDisposing)
+   at Npgsql.NpgsqlDataReader.Close()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDataReader.Close()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDataReader.Dispose()
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+  Exception data:
+    Severity: ERROR
+    SqlState: 42804
+    MessageText: column "priority" is of type task_priority but expression is of type integer
+    Hint: You will need to rewrite or cast the expression.
+    Position: 151
+    File: parse_target.c
+    Line: 593
+    Routine: transformAssignedExpr
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.<>c.<SaveChanges>b__112_0(DbContext _, ValueTuple`2 t)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 42804: column "priority" is of type task_priority but expression is of type integer
+
+POSITION: 151
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.Consume(Boolean async, Exception firstException)
+   at Npgsql.NpgsqlDataReader.Consume(Boolean async, Exception firstException)
+   at Npgsql.NpgsqlDataReader.Close(Boolean async, Boolean connectionClosing, Boolean isDisposing)
+   at Npgsql.NpgsqlDataReader.Close(Boolean async, Boolean connectionClosing, Boolean isDisposing)
+   at Npgsql.NpgsqlDataReader.Close()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDataReader.Close()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDataReader.Dispose()
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+  Exception data:
+    Severity: ERROR
+    SqlState: 42804
+    MessageText: column "priority" is of type task_priority but expression is of type integer
+    Hint: You will need to rewrite or cast the expression.
+    Position: 151
+    File: parse_target.c
+    Line: 593
+    Routine: transformAssignedExpr
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.<>c.<SaveChanges>b__112_0(DbContext _, ValueTuple`2 t)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2026-04-14 08:34:47.775 +05:30 [WRN] The 'TaskPriority' property 'Priority' on entity type 'Task' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value 'low', since this is the CLR default for the 'TaskPriority' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-04-14 08:34:48.940 +05:30 [INF] Executed DbCommand (131ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1 FROM pg_catalog.pg_class c
+    JOIN pg_catalog.pg_namespace n ON n.oid=c.relnamespace
+    WHERE n.nspname='public' AND
+          c.relname='__EFMigrationsHistory'
+)
+2026-04-14 08:34:48.990 +05:30 [INF] Executed DbCommand (18ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2026-04-14 08:34:49.077 +05:30 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1 FROM pg_catalog.pg_class c
+    JOIN pg_catalog.pg_namespace n ON n.oid=c.relnamespace
+    WHERE n.nspname='public' AND
+          c.relname='__EFMigrationsHistory'
+)
+2026-04-14 08:34:49.156 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1 FROM pg_catalog.pg_class c
+    JOIN pg_catalog.pg_namespace n ON n.oid=c.relnamespace
+    WHERE n.nspname='public' AND
+          c.relname='__EFMigrationsHistory'
+)
+2026-04-14 08:34:49.164 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2026-04-14 08:34:49.195 +05:30 [INF] No migrations were applied. The database is already up to date.
+2026-04-14 08:34:49.645 +05:30 [INF] Executed DbCommand (15ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "User" AS u)
+2026-04-14 08:35:02.076 +05:30 [INF] Executed DbCommand (112ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = DateTime), @p2='?', @p3='?', @p4='?', @p5='?' (DbType = Guid), @p6='?' (DbType = DateTime), @p7='?', @p8='?', @p9='?' (DbType = Guid), @p10='?' (DbType = Guid), @p11='?' (DbType = Guid), @p12='?' (DbType = DateTime), @p13='?', @p14='?' (DbType = DateTime), @p15='?' (DbType = Guid), @p16='?', @p17='?' (DbType = DateTime), @p18='?' (DbType = Guid), @p19='?' (DbType = Guid), @p20='?' (DbType = DateTime), @p21='?', @p22='?' (DbType = DateTime), @p23='?' (DbType = Int32), @p24='?' (DbType = Guid), @p25='?' (DbType = Int32), @p26='?', @p27='?' (DbType = DateTime), @p28='?' (DbType = Guid), @p29='?' (DbType = Guid), @p30='?' (DbType = DateTime), @p31='?', @p32='?' (DbType = DateTime), @p33='?' (DbType = Int32), @p34='?' (DbType = Guid), @p35='?' (DbType = Int32), @p36='?', @p37='?' (DbType = DateTime)], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "User" (id, created_at, email, name, password)
+VALUES (@p0, @p1, @p2, @p3, @p4);
+INSERT INTO "Project" (id, created_at, description, name, owner_id)
+VALUES (@p5, @p6, @p7, @p8, @p9);
+INSERT INTO "Task" (id, assignee_id, created_at, description, due_date, project_id, title, updated_at)
+VALUES (@p10, @p11, @p12, @p13, @p14, @p15, @p16, @p17)
+RETURNING priority, status;
+INSERT INTO "Task" (id, assignee_id, created_at, description, due_date, priority, project_id, status, title, updated_at)
+VALUES (@p18, @p19, @p20, @p21, @p22, @p23, @p24, @p25, @p26, @p27);
+INSERT INTO "Task" (id, assignee_id, created_at, description, due_date, priority, project_id, status, title, updated_at)
+VALUES (@p28, @p29, @p30, @p31, @p32, @p33, @p34, @p35, @p36, @p37);
+2026-04-14 08:35:02.429 +05:30 [ERR] An exception occurred in the database while saving changes for context type 'TaskFlow.Repository.Context.TaskFlowDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 42804: column "priority" is of type task_priority but expression is of type integer
+
+POSITION: 151
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.Consume(Boolean async, Exception firstException)
+   at Npgsql.NpgsqlDataReader.Consume(Boolean async, Exception firstException)
+   at Npgsql.NpgsqlDataReader.Close(Boolean async, Boolean connectionClosing, Boolean isDisposing)
+   at Npgsql.NpgsqlDataReader.Close(Boolean async, Boolean connectionClosing, Boolean isDisposing)
+   at Npgsql.NpgsqlDataReader.Close()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDataReader.Close()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDataReader.Dispose()
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+  Exception data:
+    Severity: ERROR
+    SqlState: 42804
+    MessageText: column "priority" is of type task_priority but expression is of type integer
+    Hint: You will need to rewrite or cast the expression.
+    Position: 151
+    File: parse_target.c
+    Line: 593
+    Routine: transformAssignedExpr
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.<>c.<SaveChanges>b__112_0(DbContext _, ValueTuple`2 t)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 42804: column "priority" is of type task_priority but expression is of type integer
+
+POSITION: 151
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.Consume(Boolean async, Exception firstException)
+   at Npgsql.NpgsqlDataReader.Consume(Boolean async, Exception firstException)
+   at Npgsql.NpgsqlDataReader.Close(Boolean async, Boolean connectionClosing, Boolean isDisposing)
+   at Npgsql.NpgsqlDataReader.Close(Boolean async, Boolean connectionClosing, Boolean isDisposing)
+   at Npgsql.NpgsqlDataReader.Close()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDataReader.Close()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDataReader.Dispose()
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+  Exception data:
+    Severity: ERROR
+    SqlState: 42804
+    MessageText: column "priority" is of type task_priority but expression is of type integer
+    Hint: You will need to rewrite or cast the expression.
+    Position: 151
+    File: parse_target.c
+    Line: 593
+    Routine: transformAssignedExpr
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.<>c.<SaveChanges>b__112_0(DbContext _, ValueTuple`2 t)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
