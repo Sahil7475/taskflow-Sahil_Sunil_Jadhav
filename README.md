@@ -211,8 +211,7 @@ Use the following credentials to log in immediately:
 - Implement centralized logging (Grafana / ELK stack)  
 
 ### ⚠️ Shortcuts Taken
-- Used simple JWT authentication without refresh tokens  
-- Skipped RBAC to reduce complexity  
+- Used simple JWT authentication without refresh tokens    
 - No real-time synchronization (requires manual refresh)  
 - Limited validation in some API endpoints  
 - No test coverage implemented  
